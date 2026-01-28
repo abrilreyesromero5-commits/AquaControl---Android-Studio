@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "532312150527",
+    "firebase_url": "https://monitoreo-de-calidad-del-80b02-default-rtdb.firebaseio.com",
+    "project_id": "monitoreo-de-calidad-del-80b02",
+    "storage_bucket": "monitoreo-de-calidad-del-80b02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532312150527:android:5a181833806bb6ccbcd7ca",
+        "android_client_info": {
+          "package_name": "com.example.aquacontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532312150527-nlod0ijrgfgtvatvm2cba0tc7jp54vnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXTqCdSDk7_c3-aovygEaIV0JKmLdry6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532312150527-nlod0ijrgfgtvatvm2cba0tc7jp54vnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532312150527:android:482f9d4f7e1f2703bcd7ca",
+        "android_client_info": {
+          "package_name": "com.example.monitoreo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532312150527-nlod0ijrgfgtvatvm2cba0tc7jp54vnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXTqCdSDk7_c3-aovygEaIV0JKmLdry6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532312150527-nlod0ijrgfgtvatvm2cba0tc7jp54vnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
